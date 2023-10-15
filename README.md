@@ -1,2 +1,2 @@
 # turtle_roboticos
-Repositório destinado a atividades de sistemas robóticos
+Repositório destinado a atividades da cadeiras de sistemas robóticos
