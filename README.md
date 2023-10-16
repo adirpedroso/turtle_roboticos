@@ -1,3 +1,8 @@
 # turtle_roboticos
-Repositório destinado a atividades da cadeiras de sistemas robóticos
-oi<img src="//img/square_turtle.png">
+
+
+# Sobre o prepositório:
+Repositório destinado a atividades da cadeiras de sistemas robóticos.
+## Demosntração do solicitado
+<img src="/img/square_turtle.png">
+
